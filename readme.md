@@ -6,7 +6,7 @@ English / [中文](readme_zh.md)
 
 This project builds a custom **SRGAN** model. This custom version is more simplified and lightweight, making it easier for beginners to understand and learn the basic principles of Super-Resolution Generative Adversarial Networks.
 
-Due to the simplified model implementation, the generated images may have some slight noise.
+Due to the simplification of the model implementation, the generated images may contain some noise.
 
 Comparison of reconstruction results is shown below.
 
